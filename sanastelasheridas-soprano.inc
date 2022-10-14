@@ -79,7 +79,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		Yo te a -- mo mu __ cho,
 		y "me en" -- tre -- "go a" ti.
 
